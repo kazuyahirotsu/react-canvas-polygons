@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=exports.to=void 0;var utils={isURL:function(a){var b=/(http)s?/i;return!!(a.match(b)&&0<a.match(b).length)}},to=function(a){return a.then(function(a){return[null,a]}).catch(function(a){return[a,null]})};exports.to=to;var _default=utils;exports.default=_default;
