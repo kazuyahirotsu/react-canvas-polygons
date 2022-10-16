@@ -1,5 +1,5 @@
 {
-  "name": "react-canvas-polygons",
+  "name": "@kazuyahirotsu/react-canvas-polygons",
   "version": "1.1.22",
   "description": "Draw lines and polygons with canvas. Save and load path to canvas.",
   "main": "build/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aeciolevy/react-canvas-polygons.git"
+    "url": "git+https://github.com/kazuyahirotsu/react-canvas-polygons.git"
   },
   "keywords": [
     "react",
@@ -23,11 +23,12 @@
     "lines"
   ],
   "author": "Aécio Levy",
+  "contributors": [{"name":"Kazuya Hirotsu","url":"https://github.com/kazuyahirotsu"}],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aeciolevy/react-canvas-polygons/issues"
+    "url": "https://github.com/kazuyahirotsu/react-canvas-polygons/issues"
   },
-  "homepage": "https://github.com/aeciolevy/react-canvas-polygons#readme",
+  "homepage": "https://github.com/kazuyahirotsu/react-canvas-polygons#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.3",
