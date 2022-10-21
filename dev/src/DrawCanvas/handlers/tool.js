@@ -12,7 +12,7 @@ const Tool = {
             0, 0, this.ctx.canvas.width, this.ctx.canvas.height
         );
         this.ctx.lineWidth = data.options.brushSize;
-        this.ctx.strokeStyle = "#000";
+        this.ctx.strokeStyle = '#ff0000';
     },
 
     draw(start, position, isInitSet, data) {

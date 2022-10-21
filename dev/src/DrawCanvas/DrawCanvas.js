@@ -298,7 +298,7 @@ DrawCanvas.defaultProps = {
     width: 300,
     height: 300,
     brushSize: 2,
-    color: '#000000',
+    color: '#ff0000',
     canUndo: false,
 }
 

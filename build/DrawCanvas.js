@@ -30,4 +30,4 @@ var h={};if(b.startsWith("Rectan")){var j=a[b][f]?f:1;h[b]=[a[b][0],a[b][j]]}var
      */onDataUpdate:_propTypes.default.func,/**
      * This is a callback function what we be triggered
      * when the shape is drawn
-     */onFinishDraw:_propTypes.default.func},DrawCanvas.defaultProps={width:300,height:300,brushSize:2,color:"#000000",canUndo:!1};var _default=DrawCanvas;exports.default=_default;
+     */onFinishDraw:_propTypes.default.func},DrawCanvas.defaultProps={width:300,height:300,brushSize:2,color:"#ff0000",canUndo:!1};var _default=DrawCanvas;exports.default=_default;
